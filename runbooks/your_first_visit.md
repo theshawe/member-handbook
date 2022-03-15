@@ -24,7 +24,7 @@ Welcome to Farset Labs Hackerspace!
 So, now that you're in the space, let's make a cup of tea and go for a dander to check it out.
 
 * Head to the kitchen (downstairs/upstairs) and put on the kettle - there's shared tea, coffee and milk that members get from the local shop. 
-* While we're boiing the kettle, let's check in on social medie - you'll need the [wi-fi].
+* While we're boiing the kettle, let's check in on social media - you'll need the [wi-fi].
 * Once the kettle's boiled, grab a tea bag, any cup you see and some milk from the fridge. If we're out of something, pop in to the local shop to get some more.
 
 Now, let's go for that dander and have a look at what we've got in the hackerspace!
